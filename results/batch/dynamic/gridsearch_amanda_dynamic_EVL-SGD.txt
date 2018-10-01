@@ -1,0 +1,20 @@
+One Class Diagonal Translation. 2 Dimensional data.: 100.0 using {'batches': 1, 'clfName': 'SGD', 'initialLabeledData': 560, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 240} 
+One Class Horizontal Translation. 2 Dimensional data.: 90.42 using {'batches': 1, 'clfName': 'SGD', 'initialLabeledData': 560, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 240} 
+Two Classes Diagonal Translation. 2 Dimensional data: 97.92 using {'batches': 1, 'clfName': 'SGD', 'initialLabeledData': 560, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 240} 
+Two Classes Horizontal Translation. 2 Dimensional data.: 82.08 using {'batches': 1, 'clfName': 'SGD', 'initialLabeledData': 560, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 240} 
+Four Classes Rotating Separated. Bidimensional.: 99.95 using {'batches': 1, 'clfName': 'SGD', 'initialLabeledData': 5054, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 2166} 
+Four Classes Rotating with Expansion V1. Bidimensional.: 18.029999999999998 using {'batches': 1, 'clfName': 'SGD', 'initialLabeledData': 4375, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1875} 
+Four Classes Rotating with Expansion V2. Bidimensional.: 73.48 using {'batches': 1, 'clfName': 'SGD', 'initialLabeledData': 6405, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 2745} 
+Five Classes Vertical Translation. Bidimensional.: 79.72 using {'batches': 1, 'clfName': 'SGD', 'initialLabeledData': 840, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 360} 
+One Class Surrounding another Class. Bidimensional.: 97.23 using {'batches': 1, 'clfName': 'SGD', 'initialLabeledData': 1934, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 830} 
+Four Classes Expanding and One Class Fixed. Bidimensional.: 91.3 using {'batches': 1, 'clfName': 'SGD', 'initialLabeledData': 6063, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 2599} 
+Two Bidimensional Unimodal Gaussian Classes.: 99.2 using {'batches': 1, 'clfName': 'SGD', 'initialLabeledData': 3500, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1500} 
+Two Bidimensional Multimodal Gaussian Classes.: 99.67 using {'batches': 1, 'clfName': 'SGD', 'initialLabeledData': 7000, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 3000} 
+Two Bidimensional Classes as Four Gaussians.: 88.13 using {'batches': 1, 'clfName': 'SGD', 'initialLabeledData': 7000, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 3000} 
+Artificial Two 3-dimensional Unimodal Gaussian Classes.: 99.77000000000001 using {'batches': 1, 'clfName': 'SGD', 'initialLabeledData': 7000, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 3000} 
+Two 5-dimensional Unimodal Gaussian Classes.: 99.87 using {'batches': 1, 'clfName': 'SGD', 'initialLabeledData': 7000, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 3000} 
+Two Rotating Gears (Two classes. Bidimensional).: 96.0 using {'batches': 1, 'clfName': 'SGD', 'initialLabeledData': 7000, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 3000} 
+Rotated checkerboard dataset. Rotating 2*PI.: 46.17 using {'batches': 1, 'clfName': 'SGD', 'initialLabeledData': 7000, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 3000} 
+Electricity data. 7 features. 2 classes.: 76.33 using {'batches': 1, 'clfName': 'SGD', 'initialLabeledData': 963, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 414} 
+Keyboard patterns database. 10 features. 4 classes.: 91.67 using {'batches': 1, 'clfName': 'SGD', 'initialLabeledData': 56, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 24} 
+NOAA dataset. Eight  features. Two classes.: 71.43 using {'batches': 1, 'clfName': 'SGD', 'initialLabeledData': 634, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 273} 
