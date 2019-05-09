@@ -1,0 +1,19 @@
+One Class Horizontal Translation. 2 Dimensional data.: 99.62489999999998 using {'K': 5, 'batches': 100, 'initialLabeledData': 800, 'p': 0.3, 'sizeOfBatch': 152} 
+Two Classes Diagonal Translation. 2 Dimensional data: 75.5924 using {'K': 7, 'batches': 100, 'initialLabeledData': 800, 'p': 0.2, 'sizeOfBatch': 152} 
+Two Classes Horizontal Translation. 2 Dimensional data.: 69.572 using {'K': 3, 'batches': 100, 'initialLabeledData': 800, 'p': 0.3, 'sizeOfBatch': 152} 
+Four Classes Rotating Separated. Bidimensional.: 99.98310000000001 using {'K': 12, 'batches': 100, 'initialLabeledData': 7220, 'p': 0.3, 'sizeOfBatch': 1371} 
+Four Classes Rotating with Expansion V1. Bidimensional.: 24.346600000000002 using {'K': 8, 'batches': 100, 'initialLabeledData': 6250, 'p': 0.2, 'sizeOfBatch': 1187} 
+Four Classes Rotating with Expansion V2. Bidimensional.: 23.8985 using {'K': 10, 'batches': 100, 'initialLabeledData': 9150, 'p': 0.4, 'sizeOfBatch': 1738} 
+Five Classes Vertical Translation. Bidimensional.: 43.85570000000001 using {'K': 12, 'batches': 100, 'initialLabeledData': 1200, 'p': 0.3, 'sizeOfBatch': 228} 
+One Class Surrounding another Class. Bidimensional.: 55.156000000000006 using {'K': 9, 'batches': 100, 'initialLabeledData': 2764, 'p': 0.2, 'sizeOfBatch': 525} 
+Four Classes Expanding and One Class Fixed. Bidimensional.: 97.31680000000001 using {'K': 2, 'batches': 100, 'initialLabeledData': 8662, 'p': 0.2, 'sizeOfBatch': 1645} 
+Two Bidimensional Unimodal Gaussian Classes.: 86.38859999999998 using {'K': 4, 'batches': 100, 'initialLabeledData': 5000, 'p': 0.2, 'sizeOfBatch': 950} 
+Two Bidimensional Multimodal Gaussian Classes.: 70.3109 using {'K': 4, 'batches': 100, 'initialLabeledData': 10000, 'p': 0.3, 'sizeOfBatch': 1900} 
+Two Bidimensional Classes as Four Gaussians.: 94.786 using {'K': 9, 'batches': 100, 'initialLabeledData': 10000, 'p': 0.2, 'sizeOfBatch': 1900} 
+Artificial Two 3-dimensional Unimodal Gaussian Classes.: 62.346199999999996 using {'K': 3, 'batches': 100, 'initialLabeledData': 10000, 'p': 0.2, 'sizeOfBatch': 1900} 
+Two 5-dimensional Unimodal Gaussian Classes.: 60.994 using {'K': 12, 'batches': 100, 'initialLabeledData': 10000, 'p': 0.2, 'sizeOfBatch': 1900} 
+Two Rotating Gears (Two classes. Bidimensional).: 91.41940000000001 using {'K': 10, 'batches': 100, 'initialLabeledData': 10000, 'p': 0.2, 'sizeOfBatch': 1900} 
+Rotated checkerboard dataset. Rotating 2*PI.: 50.0642 using {'K': 3, 'batches': 100, 'initialLabeledData': 10000, 'p': 0.2, 'sizeOfBatch': 1900} 
+Electricity data. 7 features. 2 classes.: 59.605 using {'K': 3, 'batches': 100, 'initialLabeledData': 1377, 'p': 0.4, 'sizeOfBatch': 261} 
+NOAA dataset. Eight  features. Two classes.: 68.8298 using {'K': 3, 'batches': 50, 'initialLabeledData': 907, 'p': 0.5, 'sizeOfBatch': 345} 
+Keyboard patterns database. 10 features. 4 classes.: 87.5 using {'K': 2, 'batches': 8, 'initialLabeledData': 80, 'p': 0.2, 'sizeOfBatch': 190} 

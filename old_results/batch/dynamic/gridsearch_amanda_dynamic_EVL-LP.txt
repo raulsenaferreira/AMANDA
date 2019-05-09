@@ -1,0 +1,25 @@
+One Class Diagonal Translation. 2 Dimensional data.: 99.95380000000002 using {'K': 4, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 800, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 152} 
+One Class Horizontal Translation. 2 Dimensional data.: 99.61839999999998 using {'K': 2, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 800, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 152} 
+Two Classes Diagonal Translation. 2 Dimensional data: 94.1775 using {'K': 9, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 800, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 152} 
+Two Classes Horizontal Translation. 2 Dimensional data.: 77.7165 using {'K': 2, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 800, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 152} 
+Four Classes Rotating Separated. Bidimensional.: 99.9794 using {'K': 9, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 7220, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1371} 
+Four Classes Rotating with Expansion V1. Bidimensional.: 26.025300000000005 using {'K': 3, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 6250, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1187} 
+Four Classes Rotating with Expansion V2. Bidimensional.: 28.192900000000005 using {'K': 10, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 9150, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1738} 
+Five Classes Vertical Translation. Bidimensional.: 38.92119999999999 using {'K': 7, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 1200, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 228} 
+One Class Surrounding another Class. Bidimensional.: 92.07350000000001 using {'K': 11, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 2764, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 525} 
+Four Classes Expanding and One Class Fixed. Bidimensional.: 98.02590000000001 using {'K': 5, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 8662, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1645} 
+Two Bidimensional Unimodal Gaussian Classes.: 82.53470000000002 using {'K': 4, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 5000, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 950} 
+Two Bidimensional Multimodal Gaussian Classes.: 85.12500000000001 using {'K': 11, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 10000, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1900} 
+Two Bidimensional Classes as Four Gaussians.: 83.61869999999999 using {'K': 4, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 10000, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1900} 
+Artificial Two 3-dimensional Unimodal Gaussian Classes.: 93.90230000000001 using {'K': 12, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 10000, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1900} 
+Two 5-dimensional Unimodal Gaussian Classes.: 89.34080000000002 using {'K': 3, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 10000, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1900} 
+Two Rotating Gears (Two classes. Bidimensional).: 96.2639 using {'K': 11, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 10000, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1900} 
+Rotated checkerboard dataset. Rotating 2*PI.: 50.485600000000005 using {'K': 11, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 10000, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1900} 
+Electricity data. 7 features. 2 classes.: 59.80049999999999 using {'K': 2, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 1377, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 261} 
+NOAA dataset. Eight  features. Two classes.: 68.68480000000001 using {'K': 4, 'batches': 50, 'clfName': 'LP', 'initialLabeledData': 907, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 345} 
+Keyboard patterns database. 10 features. 4 classes.: 88.29 using {'K': 2, 'batches': 8, 'clfName': 'LP', 'initialLabeledData': 80, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 190} 
+=======================================================================================================
+One Class Diagonal Translation. 2 Dimensional data.: 99.74939999999998 using {'K': 4, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 800, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 152} 
+One Class Horizontal Translation. 2 Dimensional data.: 98.92089999999999 using {'K': 10, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 800, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 152} 
+Two Classes Diagonal Translation. 2 Dimensional data: 55.8161 using {'K': 7, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 800, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 152} 
+Two Classes Horizontal Translation. 2 Dimensional data.: 56.03880000000001 using {'K': 10, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 800, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 152} 

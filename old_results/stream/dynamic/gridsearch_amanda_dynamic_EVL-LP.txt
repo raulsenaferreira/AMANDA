@@ -1,0 +1,23 @@
+Electricity data. 7 features. 2 classes.: 70.88470000000001 using {'K': 5, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 150, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 274} 
+NOAA dataset. Eight  features. Two classes.: 68.6204 using {'K': 2, 'batches': 50, 'clfName': 'LP', 'initialLabeledData': 10, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 362}
+
+One Class Diagonal Translation. 2 Dimensional data.: 99.61760000000002 using {'K': 7, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 50, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 159} 
+One Class Horizontal Translation. 2 Dimensional data.: 98.245 using {'K': 11, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 50, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 159} 
+Two Classes Diagonal Translation. 2 Dimensional data: 56.245599999999996 using {'K': 3, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 50, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 159} 
+One Class Diagonal Translation. 2 Dimensional data.: 99.82439999999998 using {'K': 7, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 50, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 159} 
+One Class Horizontal Translation. 2 Dimensional data.: 99.25410000000002 using {'K': 10, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 50, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 159} 
+Two Classes Diagonal Translation. 2 Dimensional data: 86.1064 using {'K': 11, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 50, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 159} 
+Two Classes Horizontal Translation. 2 Dimensional data.: 55.287 using {'K': 3, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 50, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 159} 
+Four Classes Rotating Separated. Bidimensional.: 99.98810000000002 using {'K': 5, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 50, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 1443} 
+Four Classes Rotating with Expansion V1. Bidimensional.: 37.7385 using {'K': 8, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 50, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 1249} 
+Four Classes Rotating with Expansion V2. Bidimensional.: 40.8307 using {'K': 4, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 50, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 1829} 
+Five Classes Vertical Translation. Bidimensional.: 43.386900000000004 using {'K': 2, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 50, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 239} 
+One Class Surrounding another Class. Bidimensional.: 94.82100000000003 using {'K': 6, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 50, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 552} 
+Four Classes Expanding and One Class Fixed. Bidimensional.: 77.62240000000001 using {'K': 4, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 50, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 1732} 
+Two Bidimensional Unimodal Gaussian Classes.: 95.6025 using {'K': 7, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 50, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 999} 
+Two Bidimensional Multimodal Gaussian Classes.: 69.8061 using {'K': 2, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 50, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 1999} 
+Two Bidimensional Classes as Four Gaussians.: 63.76240000000001 using {'K': 9, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 50, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 1999} 
+Artificial Two 3-dimensional Unimodal Gaussian Classes.: 63.3485 using {'K': 12, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 50, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 1999} 
+Two 5-dimensional Unimodal Gaussian Classes.: 65.34089999999999 using {'K': 4, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 50, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 1999} 
+Two Rotating Gears (Two classes. Bidimensional).: 96.03299999999999 using {'K': 8, 'batches': 100, 'clfName': 'LP', 'initialLabeledData': 50, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 1999} 
+NOAA dataset. Eight  features. Two classes.: 68.6058 using {'K': 2, 'batches': 50, 'clfName': 'LP', 'initialLabeledData': 50, 'isBatchMode': False, 'poolSize': 300, 'sizeOfBatch': 362}

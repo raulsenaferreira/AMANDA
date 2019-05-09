@@ -1,0 +1,20 @@
+One Class Diagonal Translation. 2 Dimensional data.: 99.94720000000001 using {'K': 3, 'batches': 100, 'clfName': 'KNN', 'initialLabeledData': 800, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 152} 
+One Class Horizontal Translation. 2 Dimensional data.: 99.63789999999997 using {'K': 10, 'batches': 100, 'clfName': 'KNN', 'initialLabeledData': 800, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 152} 
+Two Classes Diagonal Translation. 2 Dimensional data: 92.92740000000002 using {'K': 11, 'batches': 100, 'clfName': 'KNN', 'initialLabeledData': 800, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 152} 
+Two Classes Horizontal Translation. 2 Dimensional data.: 80.07889999999999 using {'K': 10, 'batches': 100, 'clfName': 'KNN', 'initialLabeledData': 800, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 152} 
+Four Classes Rotating Separated. Bidimensional.: 99.9794 using {'K': 9, 'batches': 100, 'clfName': 'KNN', 'initialLabeledData': 7220, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1371} 
+Four Classes Rotating with Expansion V1. Bidimensional.: 26.722699999999996 using {'K': 4, 'batches': 100, 'clfName': 'KNN', 'initialLabeledData': 6250, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1187} 
+Four Classes Rotating with Expansion V2. Bidimensional.: 25.084100000000003 using {'K': 2, 'batches': 100, 'clfName': 'KNN', 'initialLabeledData': 9150, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1738} 
+Five Classes Vertical Translation. Bidimensional.: 47.622699999999995 using {'K': 9, 'batches': 100, 'clfName': 'KNN', 'initialLabeledData': 1200, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 228} 
+One Class Surrounding another Class. Bidimensional.: 65.1482 using {'K': 8, 'batches': 100, 'clfName': 'KNN', 'initialLabeledData': 2764, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 525} 
+Four Classes Expanding and One Class Fixed. Bidimensional.: 98.08640000000001 using {'K': 5, 'batches': 100, 'clfName': 'KNN', 'initialLabeledData': 8662, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1645} 
+Two Bidimensional Unimodal Gaussian Classes.: 87.36269999999999 using {'K': 2, 'batches': 100, 'clfName': 'KNN', 'initialLabeledData': 5000, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 950} 
+Two Bidimensional Multimodal Gaussian Classes.: 63.0423 using {'K': 5, 'batches': 100, 'clfName': 'KNN', 'initialLabeledData': 10000, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1900} 
+Two Bidimensional Classes as Four Gaussians.: 83.609 using {'K': 10, 'batches': 100, 'clfName': 'KNN', 'initialLabeledData': 10000, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1900} 
+Artificial Two 3-dimensional Unimodal Gaussian Classes.: 93.40729999999999 using {'K': 12, 'batches': 100, 'clfName': 'KNN', 'initialLabeledData': 10000, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1900} 
+Two 5-dimensional Unimodal Gaussian Classes.: 91.4773 using {'K': 11, 'batches': 100, 'clfName': 'KNN', 'initialLabeledData': 10000, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1900} 
+Two Rotating Gears (Two classes. Bidimensional).: 95.95670000000001 using {'K': 11, 'batches': 100, 'clfName': 'KNN', 'initialLabeledData': 10000, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1900} 
+Rotated checkerboard dataset. Rotating 2*PI.: 50.33880000000001 using {'K': 8, 'batches': 100, 'clfName': 'KNN', 'initialLabeledData': 10000, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 1900} 
+Electricity data. 7 features. 2 classes.: 60.6893 using {'K': 9, 'batches': 100, 'clfName': 'KNN', 'initialLabeledData': 1377, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 261} 
+NOAA dataset. Eight  features. Two classes.: 68.76 using {'K': 12, 'batches': 50, 'clfName': 'KNN', 'initialLabeledData': 907, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 345} 
+Keyboard patterns database. 10 features. 4 classes.: 88.94749999999999 using {'K': 7, 'batches': 8, 'clfName': 'KNN', 'initialLabeledData': 80, 'isBatchMode': True, 'poolSize': None, 'sizeOfBatch': 190} 
